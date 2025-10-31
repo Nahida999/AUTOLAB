@@ -1,0 +1,48 @@
+.staff-text{
+    padding-right: 400px;
+}
+.staff-text1{
+  margin-right: 300px;
+}
+
+.staff-image {
+  width: 110px !important;
+  height: auto !important;
+  display: block; 
+}
+
+.staff-image, .staff-image1{
+  margin-top: 190px;
+  margin-left: 70px!important;
+}
+
+.staff-image img {
+  padding: 100px;
+  width: 47px!important;
+  height: auto;
+} 
+
+.contact {
+  text-align: center;
+  color: white;
+  background-color: rgb(107, 16, 16);
+  margin-top: 30px;
+  padding: 20px;
+}
+
+.adrs, .phn, .email {
+  width: 20px;
+  height: auto;
+  margin-right: 8px;   /* spacing between icon and text */
+}
+
+.adrs-txt, .phn-txt, .eml-txt {
+  display: flex;
+  align-items: center;
+  justify-content: center;  /* ✅ center horizontally */
+  margin: 10px auto;        /* ✅ spacing between each row */
+  flex-wrap: wrap;          /* ✅ allow breaking on small screens */
+  max-width: 90%;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+}
