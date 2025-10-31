@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.c9803ad3.css",
-    "main.js": "/static/js/main.a9eecb04.js",
-    "static/media/electric.png": "/static/media/electric.0bc857ade53ba09bd5ef.png",
-    "static/media/wash.png": "/static/media/wash.15472267b225ed21ac26.png",
-    "static/media/oil.png": "/static/media/oil.05eea79f33e0aab10ac2.png",
-    "static/media/engine.png": "/static/media/engine.8e6aec18469dd8f48b18.png",
-    "static/media/tier.png": "/static/media/tier.2d4a760f99ab53c8a1b8.png",
-    "static/media/address.png": "/static/media/address.e448ccc72b842704a75e.png",
-    "static/media/car2.png": "/static/media/car2.4bdce35cef6fd35451d7.png",
-    "static/media/paint.png": "/static/media/paint.6b06b1d05b1928469c12.png",
-    "static/media/phone.png": "/static/media/phone.b0ba0642f727ee3df5c8.png",
-    "static/media/email.png": "/static/media/email.edde96781f1253399d92.png",
-    "index.html": "/index.html",
-    "main.c9803ad3.css.map": "/static/css/main.c9803ad3.css.map",
-    "main.a9eecb04.js.map": "/static/js/main.a9eecb04.js.map"
+    "main.css": "/AUTOLAB/static/css/main.9f4e18d5.css",
+    "main.js": "/AUTOLAB/static/js/main.730e7884.js",
+    "static/media/electric.png": "/AUTOLAB/static/media/electric.0bc857ade53ba09bd5ef.png",
+    "static/media/wash.png": "/AUTOLAB/static/media/wash.15472267b225ed21ac26.png",
+    "static/media/oil.png": "/AUTOLAB/static/media/oil.05eea79f33e0aab10ac2.png",
+    "static/media/engine.png": "/AUTOLAB/static/media/engine.8e6aec18469dd8f48b18.png",
+    "static/media/tier.png": "/AUTOLAB/static/media/tier.2d4a760f99ab53c8a1b8.png",
+    "static/media/address.png": "/AUTOLAB/static/media/address.e448ccc72b842704a75e.png",
+    "static/media/car2.png": "/AUTOLAB/static/media/car2.4bdce35cef6fd35451d7.png",
+    "static/media/paint.png": "/AUTOLAB/static/media/paint.6b06b1d05b1928469c12.png",
+    "static/media/phone.png": "/AUTOLAB/static/media/phone.b0ba0642f727ee3df5c8.png",
+    "static/media/email.png": "/AUTOLAB/static/media/email.edde96781f1253399d92.png",
+    "index.html": "/AUTOLAB/index.html",
+    "main.9f4e18d5.css.map": "/AUTOLAB/static/css/main.9f4e18d5.css.map",
+    "main.730e7884.js.map": "/AUTOLAB/static/js/main.730e7884.js.map"
   },
   "entrypoints": [
-    "static/css/main.c9803ad3.css",
-    "static/js/main.a9eecb04.js"
+    "static/css/main.9f4e18d5.css",
+    "static/js/main.730e7884.js"
   ]
 }
